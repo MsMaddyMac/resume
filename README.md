@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gatsby Starter Resume CMS
 
 ![resume-template](./preview.png "Gatsby resume template")
@@ -67,3 +68,6 @@ If it doesn't work, the instructions for setting up OAuth can be found here: [Ne
 
 I hope you enjoy the resume template, if you do please follow me on [twitter](https://twitter.com/barancezayirli) and send me your results.
 I would love to see it!
+=======
+# resume
+>>>>>>> 5a516ca6513a4fafd375b0ff504c765bb1e31933
