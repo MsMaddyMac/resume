@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "(856)236-3400",
+    "email": "mmcintosh2k14@gmail.com",
+    "website": "https://github.com/MsMaddyMac",
+    "location": "Sicklerville, NJ"
   },
   "skills": [
     {
@@ -11,48 +11,32 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
-        },
-        {
           "name": "Mobile/Web App Development",
-          "percent": 95
+          "percent": 100
         },
         {
-          "name": "Product Management",
-          "percent": 85
+          "name": "Authentication/Authorization",
+          "percent": 100
         },
         {
-          "name": "Project Management",
-          "percent": 92
+          "name": "Accessibility",
+          "percent": 100
         },
         {
-          "name": "Game Development",
-          "percent": 70
-        },
-        {
-          "name": "Blockchain",
-          "percent": 85
+          "name": "Project Lead",
+          "percent": 100
         },
         {
           "name": "Dev Ops",
-          "percent": 81
+          "percent": 100
         },
         {
           "name": "Backend Development",
-          "percent": 93
+          "percent": 100
         },
         {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
-          "percent": 70
-        },
-        {
-          "name": "UX",
-          "percent": 80
+          "name": "UI/UX",
+          "percent": 100
         }
       ]
     },
@@ -62,31 +46,23 @@
       "subskills": [
         {
           "name": "Javascript",
-          "percent": 96
-        },
-        {
-          "name": "Java",
-          "percent": 82
+          "percent": 100
         },
         {
           "name": "Python",
-          "percent": 85
+          "percent": 100
         },
         {
           "name": "C#",
-          "percent": 74
+          "percent": 100
         },
         {
-          "name": "Solidity",
-          "percent": 85
+          "name": "SQL",
+          "percent": 100
         },
         {
-          "name": "Dart",
-          "percent": 75
-        },
-        {
-          "name": "Go",
-          "percent": 60
+          "name": "GraphQL",
+          "percent": 100
         }
       ]
     },
@@ -98,34 +74,10 @@
           "name": "React"
         },
         {
-          "name": "Flutter"
-        },
-        {
-          "name": "React Native"
-        },
-        {
-          "name": "Vue"
-        },
-        {
-          "name": "Spring"
-        },
-        {
-          "name": "Angular"
-        },
-        {
-          "name": "Electron"
-        },
-        {
           "name": "Node"
         },
         {
-          "name": "Flusk"
-        },
-        {
           "name": "Express"
-        },
-        {
-          "name": "Koa"
         },
         {
           "name": "Gatsby"
@@ -134,25 +86,10 @@
           "name": "Apollo"
         },
         {
-          "name": "Django"
+          "name": "Prisma"
         },
         {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
+          "name": "AWS Web Services"
         }
       ]
     },
@@ -167,10 +104,10 @@
           "name": "Jira"
         },
         {
-          "name": "Unity"
+          "name": "Trello"
         },
         {
-          "name": "Godot"
+          "name": "Notion"
         },
         {
           "name": "Google Analytics"
@@ -188,121 +125,105 @@
           "name": "Mongodb"
         },
         {
-          "name": "Parse"
-        },
-        {
-          "name": "Firebase"
-        },
-        {
-          "name": "Elastic Search"
+          "name": "SQLite"
         }
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "Although I am a Junior Engineer, I have come a long way since starting this journey. By attending Lambda School, I was equipped with the basic knowledge of what it takes to be a strong, competitive developer in this field. That knowledge coupled with my passion and skill to learn new things and learn them quickly has allowed me to expand my skill set exponentially.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "Lambda School",
+      "degree": "Full Stack Web Development",
+      "start": "2019",
+      "end": "2020"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Mount Holyoke College",
+      "degree": "Bachelor's in Psychology | Minor in Philosophy",
+      "start": "2009",
+      "end": "2011"
+    },
+    {
+      "institution": "STCC",
+      "degree": "Associate's in General Studies/Liberal Arts",
+      "start": "2004",
+      "end": "2008"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
-      "end": ""
+      "role": "Engineer I",
+      "company": "AdaptivApps",
+      "description": "Engineer at a startup creating accessible, secure apps. As one of the only two developers, I have been able to expand my problem-solving & debugging skills sans the help of a Senior Developer. My partner and I have learned to dive deeper in research and grow our creative minds & development skills.",
+      "start": "01/2020",
+      "end": "Present"
     },
+   
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
+      "role": "Freelance Writer",
+      "company": "High Place Church",
+      "description": "Co-creator and Head Writer of my church's bimonthly newsletter. Led a team through the process of designing, creating, and printing a newsletter.",
+      "start": "03/2016",
       "end": "09/2019"
     },
+   
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Purchasing Agent/Shipping Coordinator",
+      "company": "RPI Industries, Inc.",
+      "description": "Through my experience as a Purchasing Agent & Shipping Coordinator I learned the key importance of communication in business through interacting with vendors, customers, shipping companies, and a sales team. I was the lead of a small team and coordinated the packaging, pickup, and dropoff of goods.",
+      "start": "08/2013",
+      "end": "06/2015"
     }
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
+      "url": "https://linkedin.com/in/madeline-i-mcintosh-787b3656"
     },
     {
       "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://twitter.com/MsMaddy_Mac"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
+      "url": "https://github.com/MsMaddyMac"
     },
     {
       "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
+      "url": "https://www.facebook.com/madeline.lopez.796"
     },
     {
       "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.instagram.com/maddycakes.custom.designs"
     }
   ],
-  "role": "Technologist",
+  "role": "Software Engineer",
   "projects": [
     {
-      "name": "Gatsby resume starter",
-      "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "name": "ACS",
+      "company": "AdaptivApps",
+      "description": "Working on the ACS app allowed me to not only strengthen all the skills I had learned in Lambda School but also my confidence as a new developer in the field. I was able to learn new frameworks, softwares and a new language by implementing GraphQL, Apollo, Prisma, Docker, AWS Web Services, and OAuth. One area I am very proud to have grown is in creating an accessible app. Being able to navigate a site from the perspective of a low vision and/or physically impaired user made me realize how much able body users take for granted. It was amazing to know we had a positive impact in a community that is typically overlooked in this field.",
+      "link": "https://app.angelcityalliance.org"
+    },
+    {
+      "name": "Tetris",
+      "company": "Skill Builder",
+      "description": "Fun Tetris game clone challenge I used to help solidify my JavaScript understanding and strengthen my skills. I enjoyed being able to create a fully functional game I used to enjoy during my childhood. I had a real sense of nostalgia one it was done.",
+      "link": "https://tetris-nine-henna.now.sh"
+    },
+    {
+      "name": "Rick & Morty",
+      "company": "Sprint Challenge",
+      "description": "The Rick & Morty project was one of my favorite challenges I had to complete during my student track at Lambda. It helped solidify my knowledge of SPA's as well as filtering through content via a search bar. I had a little more fun with it by challenging different CSS skills as well.",
+      "link": "https://sprint-challenge-single-page-apps-steel-kappa.now.sh"
+    },
+    {
+      "name": "Kidsfly",
+      "company": "Build Week Project",
+      "description": "This was a project I had the privilege to lead. I was appointed as the Project Lead for this project which is developed by a small group over a one week period. It was a pleasure working with the team and they were able to get a fully functional front and backend up with success.",
+      "link": "https://kidsfly2020.netlify.app/"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Madeline I. McIntosh"
 }
