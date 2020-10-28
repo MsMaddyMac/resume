@@ -219,6 +219,12 @@
       "link": "https://sprint-challenge-single-page-apps-steel-kappa.now.sh"
     },
     {
+      "name": "MentorMe",
+      "company": "First Build Week Project",
+      "description": "I am most proud of this project! This was the very first project I was on with a team during my student track at Lambda. I had the privilege of creating the landing/marketing and about pages. I had the opportunity to go through the deployment process and was given free reign of the design creation on these pages as well.",
+      "link": "https://mentor-me1.netlify.app/"
+    },
+    {
       "name": "Kidsfly",
       "company": "Build Week Project",
       "description": "This was a project I had the privilege to lead. I was appointed as the Project Lead for this project which is developed by a small group over a one week period. It was a pleasure working with the team and they were able to get a fully functional front and backend up with success.",
